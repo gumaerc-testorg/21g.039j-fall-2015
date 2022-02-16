@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 702ebf5e-c035-a8df-f961-c9eb8aaa8b9d
 ---
@@ -151,7 +153,7 @@ Essay 1 draft due
 {{< tdopen >}}
 
 
-Robots, Gender, and Sexism in 21st Century Japan
+Robots, Gender, and Sexism in 21{{< sup "st" >}} Century Japan
 
 _Screening: [Shanghai Dragon](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5840)_. Directed by Shoji Kawamori. Color, 20 min. 2007.
 
@@ -167,7 +169,7 @@ Essay 1 due
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Robots, Gender, and Sexism in 21st Century Japan (cont.)
+Robots, Gender, and Sexism in 21{{< sup "st" >}} Century Japan (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
 Microtheme due

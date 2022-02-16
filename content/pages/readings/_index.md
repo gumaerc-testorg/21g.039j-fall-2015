@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 9a668f60-c2e8-35d2-5c6c-b026dd6a5402
 ---
@@ -243,7 +246,7 @@ No readings assigned
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Robots, Gender, and Sexism in 21st Century Japan
+Robots, Gender, and Sexism in 21{{< sup "st" >}} Century Japan
 {{< tdclose >}}
 {{< tdopen >}}
 No readings assigned
@@ -255,7 +258,7 @@ No readings assigned
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Robots, Gender, and Sexism in 21st Century Japan (cont.)
+Robots, Gender, and Sexism in 21{{< sup "st" >}} Century Japan (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
 
