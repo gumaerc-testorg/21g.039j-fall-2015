@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 68c0eccf-2d7e-ad19-e194-013c7db26c38
 resourcetype: Document
 title: '21G.039J Gender and Japanese Popular Culture: Assignments: Final Project'
 uid: 3fdc23e4-a7b6-419d-2e9d-a8d047a767f0

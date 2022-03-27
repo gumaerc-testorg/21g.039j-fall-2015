@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 68c0eccf-2d7e-ad19-e194-013c7db26c38
 resourcetype: Document
 title: '21G.039J Gender and Japanese Popular Culture: Student 3 Example Final Essay'
 uid: 8150ffb0-8350-80f0-8963-f421b84c9313
