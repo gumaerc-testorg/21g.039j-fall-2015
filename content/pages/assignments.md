@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides descriptions of the course assignments and examples
+  of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -26,17 +28,17 @@ Essays
 
 Essay 1
 
-In the first section of this class, we have explored theories of gender, theories of popular culture, and discussions of inequality. We have also explored some examples of popular culture, including _Princess Jellyfish_ (manga) and _Kamikaze Girls_ (film). Using these materials, please make an argument regarding one of the statements detailed in the [Essay 1 Prompt (PDF)]({{< baseurl >}}/resources/mit21g_039jf15_essay1).
+In the first section of this class, we have explored theories of gender, theories of popular culture, and discussions of inequality. We have also explored some examples of popular culture, including _Princess Jellyfish_ (manga) and _Kamikaze Girls_ (film). Using these materials, please make an argument regarding one of the statements detailed in the {{% resource_link 12dce05f-09ac-a516-260f-937062d55a4e "Essay 1 Prompt (PDF)" %}}.
 
 Essay 1 should be 5 pages, double-spaced.
 
 ### Student Examples
 
-["Gender Inquality in Japan: An Issue of Class." (PDF)]({{< baseurl >}}/resources/mit21g_039jf15_inequality)
+{{% resource_link cf861e54-d3f0-6ff4-0bdc-04694c984b1d "\"Gender Inquality in Japan: An Issue of Class.\" (PDF)" %}}
 
-["Japanese Culture Abroad." (PDF)]({{< baseurl >}}/resources/mit21g_039jf15_culture)
+{{% resource_link 95b47691-da5e-20e7-3d97-668a714c8653 "\"Japanese Culture Abroad.\" (PDF)" %}}
 
-["On the Global Transformation of Japanese Culture." (PDF)]({{< baseurl >}}/resources/mit21g_039jf15_transformation)
+{{% resource_link 3ebd9d20-ba29-9f51-fea6-624963c6ae58 "\"On the Global Transformation of Japanese Culture.\" (PDF)" %}}
 
 Note: Essay 2 is a literature review, due as part of the final project. See below.
 
@@ -45,12 +47,12 @@ Final Project
 
 Please choose a topic of interest to you related to gender and Japanese popular culture, and write an 8–10 page (double-spaced) essay analyzing an aspect of this phenomenon that speaks to the issues we have read about and discussed in class.
 
-The final project consists of three parts: A literature review, a final presentation, and a final paper. These are detailed in the [Final Project Prompt (PDF)]({{< baseurl >}}/resources/mit21g_039jf15_final).
+The final project consists of three parts: A literature review, a final presentation, and a final paper. These are detailed in the {{% resource_link 3fdc23e4-a7b6-419d-2e9d-a8d047a767f0 "Final Project Prompt (PDF)" %}}.
 
 ### Student Examples
 
-["Education in Japan." (PDF)]({{< baseurl >}}/resources/mit21g_039jf15_education)
+{{% resource_link ef797e15-1c84-2997-a690-7f75c47de34b "\"Education in Japan.\" (PDF)" %}}
 
-["Feminism and Studio Ghibli." (PDF)]({{< baseurl >}}/resources/mit21g_039jf15_feminism)
+{{% resource_link 8150ffb0-8350-80f0-8963-f421b84c9313 "\"Feminism and Studio Ghibli.\" (PDF)" %}}
 
 All student examples appear courtesy of MIT students, and are anonymous upon request.
