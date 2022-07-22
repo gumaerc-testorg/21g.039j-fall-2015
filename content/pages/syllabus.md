@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, requirements, grading, and the Writing and Communication
+  Center at MIT.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: fcd2d099-2c35-2bd4-9a54-5f99bbcd759c
 ---
@@ -105,12 +110,12 @@ Final Paper
 
 {{< tableclose >}}
 
-There will be no final exam. For more detail on the above, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+There will be no final exam. For more detail on the above, see the {{% resource_link 68c0eccf-2d7e-ad19-e194-013c7db26c38 "Assignments" %}} section.
 
 Required Texts
 --------------
 
-There are no required texts for this class. Assigned readings can be found in the [Readings]({{< baseurl >}}/pages/readings) section.
+There are no required texts for this class. Assigned readings can be found in the {{% resource_link 9a668f60-c2e8-35d2-5c6c-b026dd6a5402 "Readings" %}} section.
 
 Grading of Written Work
 -----------------------

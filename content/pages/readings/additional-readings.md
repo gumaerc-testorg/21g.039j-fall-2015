@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section provides citations and links to supplemental readings for
+  the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: 9a668f60-c2e8-35d2-5c6c-b026dd6a5402
 title: Additional Readings
 uid: aeddd55a-36bb-61f7-4c2d-5f6d5239cd80
@@ -20,7 +26,7 @@ Murakami, Takashi. "Superflat Manisfesto." In _Superflat_. Madora Shuppan, 2000.
 
 Kelts, Roland. Selections from _Japanamerica: How Japanese Pop Culture Invaded the US._ St. Martin's Griffin, 2007. ISBN: 9781403984760.
 
-Matsui, Takeshi. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"The Diffusion of Foreign Cultural Products: The Case Analysis of Japanese Comics (Manga) in the US." (PDF)](https://culturalpolicy.princeton.edu/sites/culturalpolicy/files/wp37_matsui.pdf) Working Paper 37, Spring 2009. Princeton University Center for Arts and Cultural Policy Studies.
+Matsui, Takeshi. ["The Diffusion of Foreign Cultural Products: The Case Analysis of Japanese Comics (Manga) in the US." (PDF)](https://culturalpolicy.princeton.edu/sites/culturalpolicy/files/wp37_matsui.pdf) Working Paper 37, Spring 2009. Princeton University Center for Arts and Cultural Policy Studies.
 
 Mori, Yoshitaka. "Subcultural Unconsciousness in Japan: The War and Japanese Contemporary Artists." Chapter 9 in _Popular Culture, Globalization and Japan_. Edited by Matthew Allen and Rumi Sakamoto. Routledge, 2006. ISBN: 9780415447959.
 
