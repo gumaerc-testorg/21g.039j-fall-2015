@@ -5,6 +5,7 @@ file: /courses/21g-039j-gender-and-japanese-popular-culture-fall-2015/3fdc23e4a7
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '21G.039J Gender and Japanese Popular Culture: Assignments: Final Project
 uid: 3fdc23e4-a7b6-419d-2e9d-a8d047a767f0
 ---
 This resource contains information regarding assignments.
-

@@ -6,6 +6,7 @@ file: /courses/21g-039j-gender-and-japanese-popular-culture-fall-2015/ef797e151c
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: '21G.039J 21G.039J Gender and Japanese Popular Culture: Student 1 Example
 uid: ef797e15-1c84-2997-a690-7f75c47de34b
 ---
 This resource contains information regarding student 1 example final essay.
-

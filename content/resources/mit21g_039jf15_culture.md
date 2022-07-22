@@ -6,6 +6,7 @@ file: /courses/21g-039j-gender-and-japanese-popular-culture-fall-2015/95b47691da
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '21G.039J Gender and Japanese Popular Culture: Student 3 Example Essay 1'
 uid: 95b47691-da5e-20e7-3d97-668a714c8653
 ---
 This resource contains information regarding student 3 example essay 1.
-
