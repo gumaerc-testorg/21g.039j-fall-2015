@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding assignments.
 file: /courses/21g-039j-gender-and-japanese-popular-culture-fall-2015/3fdc23e4a7b6419d2e9da8d047a767f0_MIT21G_039JF15_Final.pdf
+file_size: 256048
 file_type: application/pdf
 learning_resource_types:
 - Assignments
