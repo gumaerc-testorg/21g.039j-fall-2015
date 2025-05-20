@@ -13,7 +13,7 @@ uid: 9a668f60-c2e8-35d2-5c6c-b026dd6a5402
 
 \[G\] = Graeber, David. *Debt: The First 5000 Years*. Melville House, 2014. ISBN: 9781612194196.
 
-\[H\] = Higashimura, Akiko. [*Kurageheime Manga*](http://www.mangareader.net/kuragehime). mangareader.net.
+\[H\] = Higashimura, Akiko. [*Kurageheime Manga*](https://kuragehime.fandom.com/wiki/Manga). mangareader.net.
 
 \[J\] = Jackson, Stevi, ed. *Women's Studies: Essential Readings*. New York University Press, 1993. ISBN: 9780814742150.
 
@@ -71,17 +71,17 @@ Women and Media + "Rotten Girls" (*fujoshi*) Manga
 
 \[J\] Chapter 14: Representations of Women in the Media.
 
-\[H\] Chapter 1: [Sex and the Amars](http://www.mangareader.net/kuragehime/1).
+\[H\] Chapter 1: [Sex and the Amars](https://comics.inkr.com/title/231-princess-jellyfish/chapter/7437-chapter-1-sex-and-the-amars?progress=59.345).
 
-\[H\] Chapter 2: [Pretty Woman](http://www.mangareader.net/kuragehime/2).
+\[H\] Chapter 2: [Pretty Woman](https://comics.inkr.com/title/231-princess-jellyfish/chapter/7438-chapter-2-pretty-woman?progress=0.986).
 
-\[H\] Chapter 3: [Sukiyaki Western Django](http://www.mangareader.net/kuragehime/3).
+\[H\] Chapter 3: [Sukiyaki Western Django](https://comics.inkr.com/title/231-princess-jellyfish/chapter/7439-chapter-3-sukiyaki-western-django?progress=1.044).
 
-\[H\] Chapter 4: [Enchanted](http://www.mangareader.net/kuragehime/4).
+\[H\] Chapter 4: [Enchanted](https://comics.inkr.com/title/231-princess-jellyfish/chapter/7440-chapter-4-enchanted?progress=0.884).
 
-\[H\] Chapter 5: [Next Next Amars](http://www.mangareader.net/kuragehime/5).
+\[H\] Chapter 5: [Next Next Amars](https://comics.inkr.com/title/231-princess-jellyfish/chapter/7441-chapter-5-vampires-from-amars?progress=0.855).
 
-\[H\] Chapter 6: [Take Me to the Aquarium](http://www.mangareader.net/kuragehime/6).
+\[H\] Chapter 6: [Take Me to the Aquarium](https://comics.inkr.com/title/231-princess-jellyfish/chapter/7442-chapter-6-take-me-out-to-the-aquarium?progress=0.754).
 
 ### View
 
@@ -93,17 +93,17 @@ Women and Media + "Rotten Girls" (*fujoshi*) Manga
 "Rotten Girls" (*fujoshi*) Manga (cont.)
 {{< tdclose >}}{{< tdopen >}}
 
-\[H\] Chapter 7: [Clear No Present Danger](http://www.mangareader.net/kuragehime/7).
+\[H\] Chapter 7: [Clear and Present Danger](https://comics.inkr.com/title/231-princess-jellyfish/chapter/7444-chapter-7-clear-and-present-danger?progress=0.777).
 
-\[H\] Chapter 8: [I Want to Become a Jellyfish](http://www.mangareader.net/kuragehime/8).
+\[H\] Chapter 8: [I Want to Become a Jellyfish](https://comics.inkr.com/title/231-princess-jellyfish/chapter/7445-chapter-8-i-want-to-be-a-jellyfish?progress=1.08).
 
-\[H\] Chapter 9: [Seven Amars](http://www.mangareader.net/kuragehime/9).
+\[H\] Chapter 9: [Seven Amars](https://comics.inkr.com/title/231-princess-jellyfish/chapter/7446-chapter-9-seven-sisters?progress=1.044).
 
-\[H\] Chapter 10: [Fatal Attraction](http://www.mangareader.net/kuragehime/10).
+\[H\] Chapter 10: [Fatal Attraction](https://comics.inkr.com/title/231-princess-jellyfish/chapter/7447-chapter-10-fatal-attraction?progress=1.044).
 
-\[H\] Chapter 11: [Driving Mr. Hanamori](http://www.mangareader.net/kuragehime/11).
+\[H\] Chapter 11: [Driving Mr. Hanamori](https://comics.inkr.com/title/231-princess-jellyfish/chapter/7448-chapter-11-driving-mr-manamori?progress=0.855).
 
-\[H\] Chapter 12: [In The Closet](http://www.mangareader.net/kuragehime/12).
+\[H\] Chapter 12: [In The Closet](https://comics.inkr.com/title/231-princess-jellyfish/chapter/7449-chapter-12-in-the-closet?progress=0.745).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -267,7 +267,7 @@ Idols and Celebrity Culture
 
 Condry, Ian. "[Miku: Japan's Virtual Idol and Media Platform](https://civic.mit.edu/index.html%3Fp=1749.html)." MIT Center for Civic Media.
 
-Galbraith, Patrick W., and Jason G. Karlin. "Introduction: The Mirror of Idols and Celebrity." In *Idols and Celebrity in Japanese Media Culture*. Edited by Patrick W. Galbraith and Jason G. Karlin. Palgrave Macmillan, 2012. ISBN: 9780230298309. \[Preview with [Google Books](https://books.google.com/books?id=GJEv_rKJvHkC&pg=PA1=onepage#v=onepage&q&f=false)\]
+Galbraith, Patrick W., and Jason G. Karlin. "Introduction: The Mirror of Idols and Celebrity." In *Idols and Celebrity in Japanese Media Culture*. Edited by Patrick W. Galbraith and Jason G. Karlin. Palgrave Macmillan, 2012. ISBN: 9780230298309. \[Preview with [Google Books](https://www.google.com/books/edition/Idols_and_Celebrity_in_Japanese_Media_Cu/X4uk9vgoyDcC?hl=en&gbpv=0)\]
 
 Glasspool, Lucy. "From Boys Next Door to Boys' Love: Gender Performance in Japanese Male Idol Media." Chapter 5 in *Idols and Celebrity in Japanese Media Culture*. Edited by Patrick W. Galbraith and Jason G. Karlin. Palgrave Macmillan, 2012. ISBN: 9780230298309.
 
