@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding student 1 example final
   essay.
-file: /ol-ocw-studio-app/courses/21g-039j-gender-and-japanese-popular-culture-fall-2015/ef797e151c842997a6907f75c47de34b_MIT21G_039JF15_Education.pdf
+file: /courses/21g-039j-gender-and-japanese-popular-culture-fall-2015/ef797e151c842997a6907f75c47de34b_MIT21G_039JF15_Education.pdf
 file_size: 186741
 file_type: application/pdf
 learning_resource_types:
