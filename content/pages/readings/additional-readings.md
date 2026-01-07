@@ -36,24 +36,24 @@ Napier, Susan. "Anime Nation: Cons, Cosplay, and (Sub) Cultural Capital." Chapte
 
 Otsuka, Eiji. "Disarming Atom: Tezuka Osamu's Manga at War and Peace." In *Mechademia 3: Limits of the Human*. Edited by Frenchy Lunning. University of Minnesota Press, 2008. ISBN: 9780816654826.
 
-Steinberg, Marc. "{{% resource_link "de50f8f4-5388-4202-8d15-1711cbc7545d" "Anytime, Anywhere: Tetsuwan Atomu Stickers and the Emergence of Character Merchandising" %}}." *Theory, Culture & Society* 26 (2009): 113–38.
+Steinberg, Marc. "[Anytime, Anywhere: Tetsuwan Atomu Stickers and the Emergence of Character Merchandising](http://dx.doi.org/10.1177/0263276409103114)." *Theory, Culture & Society* 26 (2009): 113–38.
 
 ### Fans & Cultural Studies: Television, Manga, Internet and Beyond
 
-Azuma, Hiroki. *Otaku: Japan's Database Animals*. Translated by Jonathan E. Abel and Shion Kono. University of Minnesota Press, 2009. ISBN: 9780816653515. \[Preview with {{% resource_link "98ac0cea-0e29-4d32-8b42-d7f3e50bcc75" "Google Books" %}}\]
+Azuma, Hiroki. *Otaku: Japan's Database Animals*. Translated by Jonathan E. Abel and Shion Kono. University of Minnesota Press, 2009. ISBN: 9780816653515. \[Preview with [Google Books](http://books.google.com/books?id=HhuHWI0Giu0C&pg=PAfrontcover)\]
 
-Lukács, Gabriella. *Scripted Affects, Branded Selves: Television, Subjectivity, and Capitalism in 1990s Japan*. Duke University Press, 2010. ISBN: 9780822348245. \[Preview with {{% resource_link "24569f6e-b434-4c77-a389-d54136a37709" "Google Books" %}}\]
+Lukács, Gabriella. *Scripted Affects, Branded Selves: Television, Subjectivity, and Capitalism in 1990s Japan*. Duke University Press, 2010. ISBN: 9780822348245. \[Preview with [Google Books](http://books.google.com/books?id=-gzQc9iKqIcC&pg=PAfrontcover)\]
 
-McLelland, Mark. "\[No Climax, No Point, No Meaning? Japanese Women's Boy-Love Sites in the Internet\]({{% resource_link "4f743a2e-d748-4e8b-b071-b073bc2a07a7" "http://dx.doi.org/" %}} 10.1177/0196859900024003003)." *Journal of Communication Inquiry* 24, no. 3 (2000): 274–91.
+McLelland, Mark. "\[No Climax, No Point, No Meaning? Japanese Women's Boy-Love Sites in the Internet\]([http://dx.doi.org/](http://dx.doi.org/) 10.1177/0196859900024003003)." *Journal of Communication Inquiry* 24, no. 3 (2000): 274–91.
 
 ### Questions of Value, Identity and Media Culture
 
-Condry, Ian. "Genba Globalization and Locations of Power." Chapter 3 in *Hip-Hop Japan: Rap and the Paths of Cultural Globalization*. Duke University Press, 2006. ISBN: 9780822338925. \[Preview with {{% resource_link "f87d4b77-2612-40e5-aa12-0ec1de1ddc75" "Google Books" %}}\]
+Condry, Ian. "Genba Globalization and Locations of Power." Chapter 3 in *Hip-Hop Japan: Rap and the Paths of Cultural Globalization*. Duke University Press, 2006. ISBN: 9780822338925. \[Preview with [Google Books](http://books.google.com/books?id=CH8Nj_bBxWoC&pg=PA87=onepage)\]
 
-Darling-Wolf, Fabienne. "{{% resource_link "51cb073d-3e8a-41a4-9b08-e69a5961e9e7" "SMAP, Sex, and Masculinity: Constructing the Perfect Female Fantasy in Japanese Popular Music" %}}." *Popular Music and Society* 27, no. 3 (2004): 357–70.
+Darling-Wolf, Fabienne. "[SMAP, Sex, and Masculinity: Constructing the Perfect Female Fantasy in Japanese Popular Music](http://dx.doi.org/10.1080/03007760410001733189)." *Popular Music and Society* 27, no. 3 (2004): 357–70.
 
 Hosokawa, Shuhei. "Blacking Japanese: Experiencing Otherness From Afar." In *Popular Music Studies*. Edited by David Hesmondhalgh and Keith Negus. Bloomsbury Academic, 2002. ISBN: 9780340762486.
 
 Lunning, Frenchy, ed. *Mechademia 5: Fanthropologies*. University of Minnesota Press, 2010. ISBN: 9780816673872.
 
-Wezorek, Joe. "Japanese Dominance of the Video-Game Industry and the Future of Interactive Media." Chapter 8 in *The Japanification of Children's Popular Culture: From Godzilla to Miyazaki*. Edited by Mark I. West. Scarecrow Press, 2008. ISBN: 9780810851214. \[Preview with {{% resource_link "deec00d9-779b-40b8-b36b-690c69764d09" "Google Books" %}}\]
+Wezorek, Joe. "Japanese Dominance of the Video-Game Industry and the Future of Interactive Media." Chapter 8 in *The Japanification of Children's Popular Culture: From Godzilla to Miyazaki*. Edited by Mark I. West. Scarecrow Press, 2008. ISBN: 9780810851214. \[Preview with [Google Books](http://books.google.com/books?id=qjwP0EI2Di0C&pg=PA85=onepage)\]
